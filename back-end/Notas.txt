@@ -1,0 +1,18 @@
+npm i mongoose
+
+npm i dotenv
+
+sequência de implementação
+01-> Model
+02-> Controller
+03-> Route
+04-> Alterar no app.js
+
+Verbos HTTP
+GET
+POST
+PATCH (PUT)
+DELETE
+
+localhost:3000/user
+               rota      

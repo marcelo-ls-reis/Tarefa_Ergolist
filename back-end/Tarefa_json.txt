@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "633e2dc5cb912da2903d1713",
+    "entry": "Presteza",
+    "description": "Esse critério engloba os meios utilizados para levar o usuário a realizar determinadas ações, como, por exemplo, entrada de dados. Esse critério engloba também todos os mecanismos ou meios que permitem ao usuário conhecer as alternativas, em termos de ações, conforme o estado ou contexto nos quais ele se encontra. A presteza diz respeito igualmente às informações que permitem ao usuário identificar o estado ou contexto no qual ele se encontra, bem como as ferramentas de ajuda e seu modo de acesso.",
+    "__v": 0
+  },
+  {
+    "_id": "633e2e27cb912da2903d1716",
+    "entry": "Controle Explícito",
+    "description": "O critério Controle Explícito diz respeito tanto ao processamento explícito pelo sistema das ações do usuário, quanto ao controle que os usuários têm sobre o processamento de suas ações pelo sistema. O critério Controle Explícito se subdivide em dois critério: Ações Explícitas do Usuário e Controle do Usuário.",
+    "__v": 0
+  },
+  {
+    "_id": "633e2e67cb912da2903d1719",
+    "entry": "Adaptabilidade",
+    "description": "A adaptabilidade de um sistema diz respeito a sua capacidade de reagir conforme o contexto e conforme as necessidades e preferências do usuário. Dois subcritérios participam da adaptabilidade: a flexibilidade e a consideração da experiência do usuário.",
+    "__v": 0
+  }
+]
